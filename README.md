@@ -4,3 +4,9 @@
 
 ## Passo 1:
 Ir ao site www.asp.net e descarregar os runtimes oara criar a aplicação
+
+##Passo 2:
+Instalar o runtime na máquina física - Done!
+
+##Passo 3:
+Clonar o repositório remoto na pasta c: AwsBraga
